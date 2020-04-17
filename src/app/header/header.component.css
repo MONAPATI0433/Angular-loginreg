@@ -1,0 +1,13 @@
+.cricle {
+    border: 1px solid #dae1e2;
+    border-radius: 50%;
+    width: 30px;
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  height: 30px;
+  padding: 5px 5px;
+}
+
+.navbar{
+  border-bottom: 1px solid #008080;
+}

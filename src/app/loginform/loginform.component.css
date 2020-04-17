@@ -17,6 +17,9 @@
 .fa-android{
 	font-size:3em;
 }
+h2{
+	text-align: center;
+}
 @media screen and (max-width: 640px) {
 	.main-content{width: 90%;}
 	.company__info{
